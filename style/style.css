@@ -11,3 +11,6 @@ body {
 .bellissima{
     width: 20px;
 }
+.underline {
+    text-decoration: underline;
+}
