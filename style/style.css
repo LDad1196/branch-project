@@ -12,3 +12,11 @@ body {
 .underline {
     text-decoration: underline;
 }
+
+.bellissima{
+    width: 20px;
+}
+
+#red {
+    color: red;
+}
